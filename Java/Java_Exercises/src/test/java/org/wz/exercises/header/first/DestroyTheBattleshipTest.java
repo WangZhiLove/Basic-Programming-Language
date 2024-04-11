@@ -1,4 +1,4 @@
-package header.first;
+package org.wz.exercises.header.first;
 
 import org.junit.jupiter.api.Test;
 import org.wz.exercises.header.first.DestroyTheBattleshipStartGame;
